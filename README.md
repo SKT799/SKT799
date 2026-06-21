@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55&stroke=000000&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <br>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=948979&center=true&vCenter=true&random=false&width=620&lines=EMNLP+2026+%28under+review%29+%7C+IBM+Research;Master's+in+CS+%26+AI+%E2%80%94+Bengaluru;Interpretable+Dense+Retrieval+%7C+LLM+Finetuning;Building+things+that+cite+their+sources" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=948979&center=true&vCenter=true&random=false&width=650&lines=EMNLP+2026+%28under+review%29+%7C+IBM+Research+-+GRM;Master's+in+CS+%26+AI+%E2%80%94+Bengaluru;Interpretable+Dense+Retrieval+%7C+LLM+Finetuning" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -18,6 +18,8 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/satyamkumartripathi)
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumartripathiofficial@gmail.com)
+&nbsp;
+[![Total Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSKT799&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&color=948979&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
 
 </div>
 
@@ -28,7 +30,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=DFD0B8&ring_color=948979&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=DFD0B8&ring_color=948979&include_all_commits=true&count_private=true&hide=stars,issues,contributions" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKT799&hide_border=true&background=222831&stroke=393E46&ring=948979&fire=DFD0B8&currStreakLabel=948979&sideLabels=DFD0B8&dates=948979&currStreakNum=DFD0B8&sideNums=DFD0B8" alt="GitHub Streak" width="100%"/>
