@@ -23,6 +23,10 @@
 
 </div>
 
+<br>
+
+<p align="center"><b>I consider myself a curious learner. I work by heart for the love of AI and enjoy learning from people. Coming from a lower-middle-class background and Hindi-medium elementary schooling, nothing has stopped me from achieving great things—from clearing IIT JEE Advanced to working with IBM Research. I am looking for an amazing team to work with.</b></p>
+
 ---
 
 <!-- Stats + Streak side by side -->
@@ -30,7 +34,7 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=DFD0B8&ring_color=948979&include_all_commits=true&count_private=true&hide=stars,issues,contributions" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&hide_border=true&bg_color=222831&title_color=DFD0B8&icon_color=948979&text_color=DFD0B8&ring_color=948979&include_all_commits=true&count_private=true&hide=stars,issues,contribs" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SKT799&hide_border=true&background=222831&stroke=393E46&ring=948979&fire=DFD0B8&currStreakLabel=948979&sideLabels=DFD0B8&dates=948979&currStreakNum=DFD0B8&sideNums=DFD0B8" alt="GitHub Streak" width="100%"/>
