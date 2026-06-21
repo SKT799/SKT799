@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55&stroke=000000&strokeWidth=2" width="100%"/>
 
 <br>
 
@@ -48,7 +48,7 @@
 
 <!-- Contribution graph -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKT799&hide_border=true&bg_color=222831&color=DFD0B8&line=948979&point=DFD0B8&area=true&area_color=393E46" alt="Contribution Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKT799&hide_border=true&bg_color=222831&color=DFD0B8&line=948979&point=DFD0B8&area=true&area_color=393E46&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 </div>
 
 ---
