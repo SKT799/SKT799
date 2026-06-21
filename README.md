@@ -19,13 +19,13 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumartripathiofficial@gmail.com)
 &nbsp;
-[![Total Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSKT799&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&color=948979&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
+[![Total Repos](https://img.shields.io/badge/Total%20Repos-13-948979?style=for-the-badge&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
 
 </div>
 
 <br>
 
-<p align="center"><b>I consider myself a curious learner. I work by heart for the love of AI and enjoy learning from people. Coming from a lower-middle-class background and Hindi-medium elementary schooling, nothing has stopped me from achieving great things—from clearing IIT JEE Advanced to working with IBM Research. I am looking for an amazing team to work with.</b></p>
+<p align="center"><b>I consider myself a curious learner. I work by heart for the love of AI and enjoy learning from people. Coming from a lower-middle-class background and Hindi-medium elementary schooling, nothing has stopped me from achieving great things—from clearing IIT JEE (Advanced) to working with IBM Research. I am looking for an amazing team to work with.</b></p>
 
 ---
 
