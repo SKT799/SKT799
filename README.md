@@ -19,7 +19,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumartripathiofficial@gmail.com)
 &nbsp;
-[![Total Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSKT799&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&color=948979&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
+[![Total Repos](https://img.shields.io/badge/Total%20Repos-8-948979?style=for-the-badge&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
 
 </div>
 
