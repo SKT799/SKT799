@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55&stroke=ffffff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:222831,50:393E46,100:948979&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=DFD0B8&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=948979&descAlignY=55&stroke=ffffff&strokeWidth=2" width="100%"/>
 
 <br>
 
@@ -19,7 +19,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumartripathiofficial@gmail.com)
 &nbsp;
-[![Total Repos](https://img.shields.io/badge/Total%20Repos-13-948979?style=for-the-badge&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
+[![Total Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSKT799&query=%24.public_repos&label=Total%20Repos&style=for-the-badge&color=948979&labelColor=393E46&logo=github&logoColor=DFD0B8)](https://github.com/SKT799?tab=repositories)
 
 </div>
 
