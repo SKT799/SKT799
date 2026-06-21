@@ -1,77 +1,158 @@
-# Satyam Tripathi
+<div align="center">
 
-<p align="center">
-  <img src="assets/banner.png" alt="Satyam Tripathi - AI Researcher" width="100%" />
-</p>
+<!-- Wave header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:7C3AED,100:A855F7&height=220&section=header&text=Satyam%20Tripathi&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%7C%20NLP%20%7C%20XAI%20%7C%20RAG&descSize=18&descColor=C9D1D9&descAlignY=55" width="100%"/>
 
-I study artificial intelligence, focusing on natural language processing, explainable AI, and retrieval-augmented generation. Having recently completed my master's degree in CS & AI, I am looking for academic collaborations, research fellowships, and PhD opportunities to design advanced neural architectures.
+<br>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=EMNLP+2026+%28under+review%29+%7C+IBM+Research;Master's+in+CS+%26+AI+%E2%80%94+Bengaluru;Interpretable+Dense+Retrieval+%7C+LLM+Finetuning;Building+things+that+cite+their+sources" alt="Typing SVG" /></a>
+
+<br><br>
+
+<!-- Badges row -->
+![Profile Views](https://komarev.com/ghpvc/?username=SKT799&style=for-the-badge&color=blueviolet)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-tripathi-6306a0225/)
+&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/satyam2025)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/satyamkumartripathi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumartripathiofficial@gmail.com)
+
+</div>
 
 ---
 
-### Research focus and background
+<!-- Stats + Streak side by side -->
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&ring_color=A855F7&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKT799&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" width="100%"/>
+</td>
+</tr>
+</table>
+</div>
 
-* Interpretable retrieval: I work on making dense passage retrieval models transparent. My research focuses on token-weighting layers that let users adjust term importance at run time without retraining the base encoders.
-* Faithful generation: I fine-tune open models to cite sources accurately. I use natural language inference models to measure and score generation faithfulness.
-* Physics-guided machine learning: I am exploring how physical priors, like light spectrum distributions and subsurface scattering models, can improve synthetic media detection.
+---
+
+<!-- Trophies -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SKT799&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%"/>
+</div>
+
+---
+
+<!-- Top Languages -->
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKT799&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="340"/>
+</div>
+
+---
+
+<!-- Contribution graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKT799&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B&area=true&area_color=A855F7" alt="Contribution Graph" width="100%"/>
+</div>
 
 ---
 
 ### Publications
 
-* iDPR: A surprisingly simple step towards interpretable and interactive Dense Passage Retrieval (ARR submission #16835, under review for EMNLP 2026)
-  * We created E5-WL, a lightweight token-weighting layer that allows real-time query correction and interactive word-importance tuning for dense embedding models on the fly.
-* Foggy Weather Architecture: An Efficient IoT Data Management Policy (Published in ICCNT 2024)
-  * Proposed a three-tier IoT fog computing framework that uses a tangential XOR-delta filter to reduce data management latency. We achieved a 21% reduction in wait time compared to baseline methods.
-  * [Paper Link](https://ieeexplore.ieee.org/document/10725243)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📄 **EMNLP 2026** *(under review)*
+<br>
+iDPR: Interpretable and interactive Dense Passage Retrieval
+<br><sub>ARR #16835 · Co-authored at IBM Research</sub>
+
+</td>
+<td width="50%" valign="top">
+
+📄 **ICCNT 2024** *(published)*
+<br>
+Foggy Weather Architecture: Efficient IoT Data Management
+<br><sub>21% latency reduction · [IEEE](https://ieeexplore.ieee.org/document/10725243)</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### Featured projects
+### Projects
 
-#### XRAG: Explainable RAG with Llama 8B
-An agentic question-answering engine that cites its sources and runs verification loops.
-* Architecture: Llama-3.1-8B generator (fine-tuned via LoRA), LangGraph agentic loop, FAISS hybrid search (lexical + dense RRF), and a DeBERTa NLI attribution model.
-* Core idea: The system evaluates each generated sentence against cited sources. Claims that fail NLI validation are marked in red, while verified claims are marked in green. If the confidence score is too low, the LangGraph agent reformulates the query and retries up to three times.
-* Results: The fine-tuned model achieved a 2.3x increase in citation F1 score over the raw base model.
-* [Watch Demo](https://youtu.be/qa_a4fhMfS0) | [Code Repo](https://github.com/SKT799/XRAG-Explainable-RAG-Llama8B)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-#### LoRA Fine-Tuning of Llama-3.1-8B
-Fine-tuning recipe to teach open 8B models to cite sources.
-* Method: Two-stage training using SFT followed by DPO. SFT teaches the model the inline citation format. DPO teaches the model to cite accurately by training it on pairs where the rejected completions have corrupted names, deleted citations, or misaligned sources.
-* Results: Citation precision improved from 0.075 to 0.142 (~1.9x lift), and citation F1 score rose from 0.070 to 0.162 (~2.3x lift).
-* [Watch Demo](https://youtu.be/SgtSzySUqgc) | [Code Repo](https://github.com/SKT799/LoRA-FineTuning-Llama-3.1-8B)
+[![XRAG](https://github-readme-stats.vercel.app/api/pin/?username=SKT799&repo=XRAG-Explainable-RAG-Llama8B&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/SKT799/XRAG-Explainable-RAG-Llama8B)
+[![Demo](https://img.shields.io/badge/▶_YouTube_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/qa_a4fhMfS0)
 
-#### Knowledge Distillation for Dense Passage Retrieval
-Distilling cross-encoder rankings into a lightweight bi-encoder.
-* Method: Trained an `e5-base` bi-encoder (student) to copy the rankings of a `BGE-reranker-v2-m3` cross-encoder (teacher). The student is trained on a combined dataset of 793k queries from NQ and MS-MARCO using a combined KL-divergence and InfoNCE loss.
-* Results: Replicated Microsoft's E5 paper on a single A100 GPU. The model reached **0.575 nDCG@10** on the BEIR NQ test split, matching within 1.5 points of the paper's original score (0.590).
-* [Watch Demo](https://youtu.be/6PGuzEoUKyU) | [Code Repo](https://github.com/SKT799/Using-Knowledge-Distillation-For-Finetuning-Transformer-Based-Dense-Embedding-Model)
+</td>
+<td width="50%" valign="top">
 
-#### Multi-Agent Warehouse Routing (RL)
-Multi-robot pathfinding in a pygame simulation.
-* Method: Sequential tabular Q-learning with ε-greedy exploration. Robots learn a static 25x25 grid by trial and error, guided by step penalties (-1 per step) and collision penalties (-100 for walls, -50 for other home zones).
-* Dynamic obstacle avoidance: Moving human obstacles are handled at run time with a sense-and-sidestep policy. Keeping these moving obstacles out of the Q-tables prevented training divergence.
-* [Watch Demo](https://youtu.be/x0QCzsvAkkA) | [Code Repo](https://github.com/SKT799/Autonomous-Multi-Robot-Pathfinding-using-Reinforcement-Learning)
+[![LoRA](https://github-readme-stats.vercel.app/api/pin/?username=SKT799&repo=LoRA-FineTuning-Llama-3.1-8B&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/SKT799/LoRA-FineTuning-Llama-3.1-8B)
+[![Demo](https://img.shields.io/badge/▶_YouTube_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/SgtSzySUqgc)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Technical stack
+[![KD](https://github-readme-stats.vercel.app/api/pin/?username=SKT799&repo=Using-Knowledge-Distillation-For-Finetuning-Transformer-Based-Dense-Embedding-Model&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/SKT799/Using-Knowledge-Distillation-For-Finetuning-Transformer-Based-Dense-Embedding-Model)
+[![Demo](https://img.shields.io/badge/▶_YouTube_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/6PGuzEoUKyU)
 
-* Programming languages: Python, C, Bash
-* Deep learning & frameworks: PyTorch, TensorFlow, Transformers (Hugging Face PEFT/TRL), LangGraph
-* Data & tooling: FAISS, NumPy, Pandas, FastAPI, Git, Pygame, LaTeX
+</td>
+<td width="50%" valign="top">
+
+[![RL](https://github-readme-stats.vercel.app/api/pin/?username=SKT799&repo=Autonomous-Multi-Robot-Pathfinding-using-Reinforcement-Learning&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7)](https://github.com/SKT799/Autonomous-Multi-Robot-Pathfinding-using-Reinforcement-Learning)
+[![Demo](https://img.shields.io/badge/▶_YouTube_Demo-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/x0QCzsvAkkA)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### GitHub analytics
+<!-- Tech stack badges -->
+<div align="center">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKT799&show_icons=true&theme=radical" alt="Satyam's GitHub Stats" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
 
 ---
 
-### Contact and links
+<!-- Snake contribution graph -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKT799/SKT799/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKT799/SKT799/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SKT799/SKT799/output/github-snake.svg" width="100%" />
+</picture>
+</div>
 
-* Email: [satyamkumartripathiofficial@gmail.com](mailto:satyamkumartripathiofficial@gmail.com)
-* Profiles: [LinkedIn](https://www.linkedin.com/in/satyam-tripathi-6306a0225/) | [Hugging Face](https://huggingface.co/satyam2025) | [Kaggle](https://www.kaggle.com/satyamkumartripathi)
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:0D1117&height=100&section=footer" width="100%"/>
+</div>
